@@ -1,4 +1,4 @@
-import { Navbar } from "@/components/layout/navbar";
+import { Navbar } from "@/components/layout/Navbar";
 import { TeamSection } from "@/components/sections/team-section";
 import { Testimonials } from "@/components/sections/testimonials";
 

@@ -10,7 +10,7 @@ gsap.registerPlugin(ScrollTrigger);
 const collections = [
   {
     title: "The Nordic Series",
-    image: "https://images.unsplash.com/photo-1600585154340-be6199f7a096?auto=format&fit=crop&q=80&w=2070",
+    image: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&q=80&w=2070",
     description: "Minimalist architecture meets natural serenity.",
     speed: 1,
   },

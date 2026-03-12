@@ -67,13 +67,13 @@ export function Testimonials() {
           </div>
           <div className="relative aspect-[3/4] hidden md:block">
             <img
-              src="https://images.unsplash.com/photo-1600607687940-47a04b629571?auto=format&fit=crop&q=80&w=2070"
+              src="https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&q=80&w=2070"
               alt="Luxury Interior"
               className="object-cover w-full h-full rounded-2xl"
             />
             <div className="absolute -bottom-10 -left-10 w-64 aspect-square rounded-2xl overflow-hidden border-8 border-zinc-900">
               <img
-                src="https://images.unsplash.com/photo-1600566753190-17f0bbc2a6c3?auto=format&fit=crop&q=80&w=2070"
+                src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&q=80&w=2070"
                 alt="Detail"
                 className="object-cover w-full h-full"
               />

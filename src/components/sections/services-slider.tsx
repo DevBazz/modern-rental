@@ -8,7 +8,7 @@ const services = [
   {
     title: "Architectural Selection",
     description: "We source properties that are not just homes, but architectural masterpieces.",
-    image: "https://images.unsplash.com/photo-1600607687940-47a04b629571?auto=format&fit=crop&q=80&w=2070",
+    image: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&q=80&w=2070",
     color: "bg-zinc-100"
   },
   {

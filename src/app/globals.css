@@ -18,6 +18,11 @@ body {
   color: var(--foreground);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  cursor: none;
+}
+
+a, button, [role="button"], input, textarea, select {
+  cursor: none;
 }
 
 /* Lenis smooth scroll recommended CSS */

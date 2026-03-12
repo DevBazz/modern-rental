@@ -1,4 +1,4 @@
-import { Navbar } from "@/components/layout/navbar";
+import { Navbar } from "@/components/layout/Navbar";
 
 const properties = [
   {
@@ -13,14 +13,14 @@ const properties = [
     title: "Concrete Sanctuary",
     location: "Austin, TX",
     price: "$8,500/mo",
-    image: "https://images.unsplash.com/photo-1600607687940-47a04b629571?auto=format&fit=crop&q=80&w=2070",
+    image: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&q=80&w=2070",
   },
   {
     id: 3,
     title: "Minimalist Loft",
     location: "New York, NY",
     price: "$15,000/mo",
-    image: "https://images.unsplash.com/photo-1600566753190-17f0bbc2a6c3?auto=format&fit=crop&q=80&w=2070",
+    image: "https://images.unsplash.com/photo-1613545325278-f24b0cae1224?auto=format&fit=crop&q=80&w=2070",
   },
   {
     id: 4,
