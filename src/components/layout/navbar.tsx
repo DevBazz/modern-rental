@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { Menu } from "lucide-react";
-import { FullPageMenu } from "./FullPageMenu";
+import { FullPageMenu } from "./full-page-menu";
 
 export function Navbar() {
   const [isOpen, setIsOpen] = useState(false);

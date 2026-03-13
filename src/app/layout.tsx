@@ -3,7 +3,7 @@ import { Geist, Geist_Mono, Cormorant_Garamond } from "next/font/google";
 import "./globals.css";
 import { SmoothScroll } from "@/components/layout/smooth-scroll";
 import { SplitTransition } from "@/components/layout/split-transition";
-import { LiquidGlassCursor } from "@/components/ui/LiquidGlassCursor";
+import { LiquidGlassCursor } from "@/components/ui/liquid-glass-cursor";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",

@@ -1,6 +1,6 @@
 "use client";
 
-import { Navbar } from "@/components/layout/Navbar";
+import { Navbar } from "@/components/layout/navbar";
 import { Hero } from "@/components/sections/hero";
 import { ServicesSlider } from "@/components/sections/services-slider";
 import { FeaturedCollections } from "@/components/sections/featured-collections";
